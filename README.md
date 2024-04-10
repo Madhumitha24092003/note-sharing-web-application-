@@ -1,2 +1,2 @@
 # note-sharing-web-application-
-web application using django
+Note Sharing Web Application using Django Framework- MADHUMITHA V-(4047-VCTW).
